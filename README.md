@@ -1,47 +1,20 @@
-- <!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-        <title>string in js</title>
-    <script>
-        var text=("ijaz khan<br>"); //ijazkhan is a string 
-        let favanimal='cat<br>';// cat at is a string
-        let favanima2="tiger<br>";// String written inside quotes
-    document.write(favanimal);
-    document.write(text);
-    document.write(favanima2);
-
-    </script>
-
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome to Ajaz Khan's GitHub Profile</title>
 </head>
 <body>
-    <p id="CARS"></p>
-    <p id="Q/A"></p>
-<script>
-        let carname1=('Mercedes-Benz');
-        let carname2=("Hatchback"); 
-        let carname3=('"Koenigsegg Agera"is the faster car in the world');
-        document.getElementById("CARS").innerHTML=carname1+"<br> "+carname2 +" <br> "+carname3; 
-</script>
-<script>
-    let answer1="it is alright";
-    let answer2='it is good';
-    let answer3="not bad boy"
-        document.getElementById("Q/A").innerHTML=answer1+"<br>"+answer2+"<br>"+answer3;
-</script>
-<script>
-   /* let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    document.getElementById("demo").innerHTML = text.length;*/
-    </script>
+<h1>👋 Hi, I'm Ajaz Khan</h1>
+<p>Welcome to my GitHub profile! I'm a passionate Jamstack developer with expertise in Next.js, Gatsby, WordPress, Sanity CMS, Tailwind CSS, and Storybook. I specialize in crafting fast, efficient, and user-friendly web experiences.</p>
+<h2>👀 What I'm Interested In</h2>
+<p>I'm fascinated by the endless possibilities of web development, particularly in creating innovative solutions to real-world problems. I enjoy exploring new technologies, refining my skills, and staying up-to-date with industry trends.</p>
+<h2>🌱 What I'm Currently Learning</h2>
+<p>Currently, I'm diving deeper into advanced Next.js techniques, exploring the latest updates in Tailwind CSS, and honing my skills in component-driven development with Storybook. Continuous learning is essential for me to deliver cutting-edge solutions to my clients.</p>
+<h2>💞️ What I'm Looking to Collaborate On</h2>
+<p>I'm open to collaborating on exciting projects that leverage my skill set and push the boundaries of web development. Whether it's building sleek, performant websites or developing robust web applications, I'm eager to contribute and collaborate with like-minded individuals or teams.</p>
+<h2>📫 How to Reach Me</h2>
+<p>Feel free to reach out to me via email at ajazkhan@example.com. I'm always open to discussing new opportunities, sharing ideas, or simply connecting with fellow developers. Let's create something amazing together!</p>
 </body>
 </html>
-
-👋 Hi, I’m @Ajazkhan10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ajazkhan10/Ajazkhan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
